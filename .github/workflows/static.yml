@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kavee Cage UK</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kavee Cage UK</h1>
+        <p>C&C Cages & Fleece liners for Guinea Pigs and Rabbits</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Our Products</h2>
+            <ul>
+                <li>Transparent Cages</li>
+                <li>Black Cages</li>
+                <li>White Cages</li>
+                <li>Outdoor Playpens</li>
+                <li>Fleece Liners</li>
+                <li>Accessories</li>
+                <li>Wooden Accessories</li>
+                <li>Cleaning Supplies</li>
+                <li>Building a C&C Cage</li>
+                <li>Hay, Food & Snacks</li>
+                <li>Essential Care</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Features</h2>
+            <ul>
+                <li>Placeholder Image 1 <img src="https://via.placeholder.com/150" alt="Placeholder image"></li>
+                <li>Placeholder Image 2 <img src="https://via.placeholder.com/150" alt="Placeholder image"></li>
+                <li>Placeholder Image 3 <img src="https://via.placeholder.com/150" alt="Placeholder image"></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Need help? Email us at customercare@kaveecage.co.uk</p>
+    </footer>
+</body>
+</html>
